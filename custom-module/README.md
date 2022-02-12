@@ -6,7 +6,7 @@ This project is created as learning practice and it shows how to create a custom
 
 
 #### Directory Structure
-
+```
 ├── README.md
 ├── greetings
 │   ├── go.mod
@@ -16,7 +16,7 @@ This project is created as learning practice and it shows how to create a custom
     ├── go.mod
     ├── hello
     └── hello.go
-
+```
 #### Modules
 
 - Greetings module

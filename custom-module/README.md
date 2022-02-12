@@ -26,9 +26,10 @@ This project is created as learning practice and it shows how to create a custom
 #### Greetings module
 Its custom go lang module having following functions
 
-`Hello`
-`Hellos`
-
+```
+Hello
+Hellos
+```
 
 #### Hello module
 In this module we are using Greeting module and showed an example How to:- 
